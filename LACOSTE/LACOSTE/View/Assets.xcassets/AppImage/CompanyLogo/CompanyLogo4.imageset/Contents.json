@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Lacoste-Embleme.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
